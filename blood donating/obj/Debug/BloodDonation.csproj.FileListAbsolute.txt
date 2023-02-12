@@ -1,0 +1,14 @@
+C:\Users\nadin\source\repos\BloodDonation\BloodDonation\bin\Debug\BloodDonation.exe.config
+C:\Users\nadin\source\repos\BloodDonation\BloodDonation\bin\Debug\BloodDonation.exe
+C:\Users\nadin\source\repos\BloodDonation\BloodDonation\bin\Debug\BloodDonation.pdb
+C:\Users\nadin\source\repos\BloodDonation\BloodDonation\obj\Debug\BloodDonation.csprojAssemblyReference.cache
+C:\Users\nadin\source\repos\BloodDonation\BloodDonation\obj\Debug\BloodDonation.Properties.Resources.resources
+C:\Users\nadin\source\repos\BloodDonation\BloodDonation\obj\Debug\BloodDonation.Welcome.resources
+C:\Users\nadin\source\repos\BloodDonation\BloodDonation\obj\Debug\BloodDonation.csproj.GenerateResource.cache
+C:\Users\nadin\source\repos\BloodDonation\BloodDonation\obj\Debug\BloodDonation.csproj.CoreCompileInputs.cache
+C:\Users\nadin\source\repos\BloodDonation\BloodDonation\obj\Debug\BloodDonation.exe
+C:\Users\nadin\source\repos\BloodDonation\BloodDonation\obj\Debug\BloodDonation.pdb
+C:\Users\nadin\source\repos\BloodDonation\BloodDonation\obj\Debug\BloodDonation.Welcome_.resources
+C:\Users\nadin\source\repos\BloodDonation\BloodDonation\obj\Debug\BloodDonation.AcceptorInterface.resources
+C:\Users\nadin\source\repos\BloodDonation\BloodDonation\obj\Debug\BloodDonation.DonorInterface.resources
+C:\Users\nadin\source\repos\BloodDonation\BloodDonation\obj\Debug\BloodDonation.HospitalInterface.resources
